@@ -433,15 +433,15 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
 
       "total_view": 100,
-      "title": "React Authentic",
+      "title": "ReactJS - JSX",
       "author": {
         "name": "system",
         "published_date": "2022-08-26 00:37:24",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
-      "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
-      "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship ove"
+      "image_url": "https://opensource.com/sites/default/files/lead-images/wfh_work_home_laptop_work.png",
+      "details": "As we learned earlier, React JSX is an extension to JavaScript. It enables developer to create virtual DOM using XML syntax. It compiles down to pure JavaScript (React.createElement function calls). Since it compiles to JavaScript, it can be used inside any valid JavaScript code. For example, below codes are perfectly valid. JSX supports expression in pure JavaScript syntax. Expression has to be enclosed inside the curly braces, { }. Expression can contain all variables available in the context, where the JSX is defined. Let us create simple JSX with expression. SX supports HTML like attributes. All HTML tags and its attributes are supported. Attributes has to be specified using camelCase convention (and it follows JavaScript DOM API) instead of normal HTML attribute name."
     },
     {
       "_id": "61f9ce168f7b16aadecb1d1fc81c72f7",
@@ -453,14 +453,14 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
 
       "total_view": 100,
-      "title": "React Components",
+      "title": "ReactJS - Component",
       "author": {
         "name": "system",
         "published_date": "2022-08-26 00:37:24",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
-      "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
-      "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship ove"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7ftvUJYM_rd682jLVq28zHt44ac_0CXqHdoAsS0gv4xDN8f-Jnko4N60TcwNujqe-zk&usqp=CAU",
+      "details": "React component is the building block of a React application. Let us learn how to create a new React component and the features of React components in this chapter. A React component represents a small chunk of user interface in a webpage. The primary job of a React component is to render its user interface and update it whenever its internal state is changed. In addition to rendering the UI, it manages the events belongs to its user interface. React component provides : Initial rendering of the user interface. Management and handling of events. Updating the user interface whenever the internal state is changed."
     }
   ]

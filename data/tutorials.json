@@ -2,48 +2,39 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "html tag",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "HTML Tag",
+      "details": "HTML tags have always been important in the history of Web design. During the early days of the World Wide Web, they were responsible for a majority of Web code. That may not be the case anymore, but HTML tags are still at the center of how Web pages are formatted. Other kinds of languages have been built around the backbone of HTML, such as Cascading Style Sheets (CSS), which makes it easier to create consistent and overarching styles and color schemes. HTML tags include tags for references, tags for tables, tags for headlines or titles, etc. An HTML tag consists of the tag name in angular brackets and may come in pair, which makes up the beginning and ending tag that frame a particular piece of code, text or other tags. The beginning tag consists of the name, optionally followed by one or more attributes, whereas the ending tag consists of the same name preceded by a forward slash",
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "html tag is a fundamental options"
+      "image_url": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "javascript1",
+      "title": "Functions",
       "author": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "image_url": "https://kinsta.com/pt/wp-content/uploads/sites/3/2021/11/cor-da-fonte-html-1024x512.jpeg",
+      "details": "unctions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it."
     },
 
     {
       "_id": "f69a695f037cd9484cecaea37ca71011",
       "category_id": "01",
-      "rating": { "number": 4.8, "badge": "Excellent" },
-      "total_view": 400,
-      "title": "html tag2",
+      "title": "HTML attribute",
       "author": {
         "name": "Jennifer Wood",
         "published_date": "2022-08-30 16:38:45",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      "image_url": "https://kinsta.com/wp-content/uploads/2021/11/learn-html.png",
+      "details": "HTML attributes are special words used inside the opening tag to control the element's behavior. HTML attributes are a modifier of an HTML element type. An attribute either modifies the default functionality of an element type or provides functionality to certain element types unable to function correctly without them. In HTML syntax, an attribute is added to an HTML start tag. Several basic attributes types have been recognized, including: (1) required attributes, needed by a particular element type for that element type to function correctly; (2) optional attributes, used to modify the default functionality of an element type; (3) standard attributes, supported by many element types; and (4) event attributes, used to cause element types to specify scripts to be run under specific circumstances. Some attribute types function differently when used to modify different element types. For example, the attribute name is used by several element types, but has slightly different functions in each. HTML attributes generally appear as name–value pairs, separated by =, and are written within the start tag of an element, after the element's name. "
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -54,15 +45,15 @@
       "category_id": "02",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "total_view": 400,
-      "title": "css 1",
+      "title": "CSS(Cascading Style Sheet)",
       "author": {
         "name": "Jennifer Wood",
         "published_date": "2022-08-30 16:38:45",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      "image_url": "https://www.thoughtco.com/thmb/wjClbt7t8L8164Drc7_f_zeZ3TY=/1024x768/smart/filters:no_upscale()/css3-57b597e85f9b58b5c2b338de.png",
+      "details": "CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language"
     },
 
     {
@@ -74,15 +65,15 @@
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
-      "title": "javascript2",
+      "title": "Condition",
       "author": {
         "name": "system",
         "published_date": "2022-08-24 23:15:00",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+      "image_url": "https://assets-blog.hostgator.com.br/wp-content/uploads/2020/12/codigo-HTML-confira-o-basico-do-desenvolvimento-web.webp",
+      "details": "The conditional (ternary) operator is the only JavaScript operator that takes three operands: a condition followed by a question mark ( ? ), then an expression to execute if the condition is truthy followed by a colon ( : ), and finally the expression to execute if the condition is falsy."
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
@@ -90,15 +81,15 @@
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 980,
-      "title": "html tag 3",
+      "title": "HTML",
       "author": {
         "name": "system",
         "published_date": "2022-08-24 23:15:00",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+      "image_url": "https://kinsta.com/wp-content/uploads/2022/01/xml-vs-html.jpg",
+      "details": "HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display text, images and other forms of multimedia on a webpage. HTML is a formal recommendation by the World Wide Web Consortium (W3C) and is generally adhered to by all major web browsers, including both desktop and mobile web browsers. HTML5 is the latest version of the specification. HTML is a text file containing specific syntax, file and naming conventions that show the computer and the web server that it is in HTML and should be read as such. By applying these HTML conventions to a text file in virtually any text editor, a user can write and design a basic webpage, and then upload it to the internet. The most basic of HTML conventions is the inclusion of a document type declaration at the beginning of the text file. This always comes first in the document, because it is the piece that affirmatively informs a computer that this is an HTML file. The document header typically looks like this: <!DOCTYPE html>. It should always be written that way, without any content inside it or breaking it up. Any content that comes before this declaration will not be recognized as HTML by a computer."
     },
 
     {
@@ -110,15 +101,15 @@
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": null,
-      "title": "css 2",
+      "title": "CSS Classes",
       "author": {
         "name": null,
         "published_date": "2022-08-30 15:00:04",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Fox News's top-rated host, Tucker Carlson, claimed on Monday night that Russian President Vladimir Putin is in fact winning the war in Ukraine, and President Joe Biden's insistence that Putin surrenders his campaign to take over Ukraine is actually evidence Biden's ultimate goal is to 'destroy the West.' Carlson arrived at his bizarre claim after railing against European and American military aid to Ukraine. 'Italy's Ukraine funding is a lot, but it's not quite as much as France. France has sent more than $2 billion U."
+      "image_url": "https://kinsta.com/pt/wp-content/uploads/sites/3/2021/11/cor-da-fonte-html-1024x512.jpeg",
+      "details": "A CSS class is an attribute used to define a group of HTML elements in order to apply unique styling and formatting to those elements with CSS. You can use CSS classes to group HTML elements and then apply custom styles to them. You can make classes and apply them to text, buttons, spans and divs, tables, images, or just about any other page element you can think of. Let’s now take a closer look at how we can use CSS classes to style page elements."
     },
 
     {
@@ -130,15 +121,15 @@
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 111,
-      "title": "javascript3",
+      "title": "Object",
       "author": {
         "name": "system",
         "published_date": null,
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://i.ibb.co/xh57pkr/unsplash-Eh-Tc-C9s-YXsw-1.png",
-      "details": "To receive Global Research's Daily Newsletter (selected articles), click here. Follow us on Instagram and Twitter and subscribe to our Telegram Channel. Feel free to repost and share widely Global Research articles. *** In response to Russia's attack on Ukraine, US President Joe Biden vowed to isolate... read full story"
+      "image_url": "https://www.creative-tim.com/blog/content/images/wordpress/2020/11/19362653-1024x683.jpg",
+      "details": "Nearly all objects in JavaScript are instances of Object; a typical object inherits properties (including methods) from Object.prototype, although these properties may be shadowed (a.k.a. overridden). However, an Object may be deliberately created for which this is not true (e.g. by Object.create(null)), or it may be altered so that this is no longer true (e.g. with Object.setPrototypeOf). Changes to the Object prototype object are seen by all objects through prototype chaining, unless the properties and methods subject to those changes are overridden further along the prototype chain. This provides a very powerful although potentially dangerous mechanism to override or extend object behavior."
     },
 
     {
@@ -226,17 +217,15 @@
         "is_trending": true
       },
       "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 700,
-      "title": "css 3",
+      "title": "CSS ID Selectors",
       "author": {
         "name": "Daniel Deangelo",
         "published_date": "2022-08-30 20:02:52",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Robert Davi will be a pretty familiar face to fans of entertainment from the 1980s and 1990s, with supporting roles in The Goonies, Die Hard, and many other films and TV shows. He also lent his voice to Colonel Juan Cortez, a significant character in Grand Theft Auto: Vice City. Meanwhile, Halo fans will recognize his voice as that of the Elite Shipmaster Ratas Vadum from Halo 2 and Halo 3. He's responsible for some of the trilogy's most iconic scenes, including his speech in Halo 2 and 'Then it is an even fight' line in Halo 3."
+      "image_url": "https://kinsta.com/wp-content/uploads/2021/01/php-editor-1-1024x512.jpg",
+      "details": "You can assign a unique identifier to an HTML element, then style that element by referencing its unique identifier. This allows you to define a style that can only be used by the element you assign the ID to. Any HTML element can have the id attribute applied to it. The value of this attribute is the element's unique identifier. The syntax for declaring a CSS ID is the same as for classes, except that instead of using a dot, you use a hash (#). Again, similar to classes, if you want to use the same id name for multiple elements, but each with a different style, you can prefix the hash with the HTML element name."
     },
     {
       "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
@@ -267,15 +256,15 @@
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 552,
-      "title": "css 4",
+      "title": "Pseudo-classes",
       "author": {
         "name": "system",
         "published_date": "2022-08-27 05:38:02",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-      "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-      "details": "Agencies | Washington The Daily Tribune – www.newsofbahrain.com The US President Joe Biden plans to appoint a general in Ukraine to lead the military training and relief efforts, the Wall Street Journal reported citing US officials. The officials indicated that in the coming weeks, the US administration also plans to name its military mission to support Ukraine. The name of the operation formally recognises US military support, akin to how the Pentagon dubbed the missions in Iraq and Afghanistan Operation Iraqi Freedom,   Enduring Freedom   and 'Guardian of Freedom'."
+      "image_url": "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/11/Como-linkar-css-no-html.png",
+      "details": "A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s). For example, the pseudo-class :hover can be used to select a button when a user's pointer hovers over the button and this selected button can then be styled. A pseudo-class consists of a colon (:) followed by the pseudo-class name (e.g., :hover). A functional pseudo-class also contains a pair of parenthesis to define the arguments (e.g., :dir()). The element that a pseudo-class is attached to is defined as an anchor element (e.g., button in case button:hover). Pseudo-classes let you apply a style to an element not only in relation to the content of the document tree, but also in relation to external factors like the history of the navigator (:visited, for example), the status of its content (like :checked on certain form elements), or the position of the mouse (like :hover, which lets you know if the mouse is over an element or not)."
     },
     
     
@@ -288,15 +277,15 @@
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 879,
-      "title": "javascript4",
+      "title": "Loops",
       "author": {
         "name": "RTTNews",
         "published_date": "2022-08-25 11:53:13",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/shutterstock1914164533-1652959735.jpg&w=900&height=601"
       },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
       "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
-      "details": "The United States has pledged nearly $3 billion in additional security assistance for Ukraine to help fight Russia's invasion as well as enable the country to defend itself over the long term. The latest aid package, under the Ukraine Security Assistance Initiative (USAI), was announced by President Joe Biden on Ukraine's Independence Day. This will allow Ukraine to acquire air defense systems,"
+      "details": "Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript. There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times. (Note that it's possible that number could be zero!). The various loop mechanisms offer different ways to determine the start and end points of the loop. There are various situations that are more easily served by one type of loop over the others."
     },
     
     {
@@ -308,15 +297,15 @@
       "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 546,
-      "title": "css 5",
+      "title": "CSS animations",
       "author": {
         "name": "The Philadelphia Inquirer",
         "published_date": "2022-08-30 22:00:00",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Advertisement Advertisement Today at 6:00 p.m. by The Philadelphia Inquirer President Joe Biden delivers remarks on the Safer America Plan, intended to prevent dangerous people from accessing firearms, at the Arnaud C. Marts Center in Wilkes-Barre, Penn. on Tuesday Aug. 30, 2022. (Doug Mills/The New York Times)   It is time to give President Joe Biden his due. While Biden's approval rating doesn't reflect it, Uncle Joe is on a roll. After some bumpy months, gas prices are dropping, unemployment is at record lows, the job market is booming, incomes are rising, a top al-Qaida leader was taken out, the first Black female Supreme Court justice was seated, NATO has expanded, and Biden unified European support for Ukraine in its fight against Russia."
+      "image_url": "https://kinsta.com/wp-content/uploads/2019/12/free-html-editor.jpg",
+      "details": "CSS animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints. There are three key advantages to CSS animations over traditional script-driven animation techniques: They're easy to use for simple animations; you can create them without even having to know JavaScript. The animations run well, even under moderate system load. Simple animations can often perform poorly in JavaScript. The rendering engine can use frame-skipping and other techniques to keep the performance as smooth as possible. Letting the browser control the animation sequence lets the browser optimize performance and efficiency by, for example, reducing the update frequency of animations running in tabs that aren't currently visible."
     },
     {
       "_id": "7f5b80c1cdd4df0111918883eae07349",
@@ -327,16 +316,16 @@
       "category_id": "03",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 1870,
-      "title": "javascript5",
+      "title": "Array",
       "author": {
         "name": "system",
         "published_date": "2022-08-24 23:15:00",
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
-      "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
+      "image_url": "https://programiz.pro/resources/content/images/2022/06/how-to-learn-programming-for-beginners-1.png",
       "published_date": "2022-08-24 18:00:00",
-      "details": "U.S. President Joe Biden announced Wednesday that he is sending $2.98 billion US in new... read full story"
+      "details": "The Array object, as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations. In JavaScript, arrays aren't primitives but are instead Array objects with the following core characteristics:  JavaScript arrays are resizable and can contain a mix of different data types. (When those characteristics are undesirable, use typed arrays instead.). JavaScript arrays are not associative arrays and so, array elements cannot be accessed using arbitrary strings as indexes, but must be accessed using nonnegative integers (or their respective string form) as indexes. JavaScript arrays are zero-indexed: the first element of an array is at index 0, the second is at index 1, and so on — and the last element is at the value of the array's length property minus 1. JavaScript array-copy operations create shallow copies. (All standard built-in copy operations with any JavaScript objects create shallow copies, rather than deep copies)."
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
@@ -433,26 +422,6 @@
       "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
       "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
       "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
-    },
-    {
-      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
-      "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-
-      "total_view": 100,
-      "title": "javascript6",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-26 00:37:24",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
-      "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
-      "image_url": "https://i.ibb.co/CVg1Nrt/unsplash-Eh-Tc-C9s-YXsw-5.png",
-      "details": "Lando Norris asks Max Verstappen to lend him the 2022 Dutch GP trophy as he predicts the Dutchman as a sure winner. Max Verstappen returns to his home Grand Prix in Zandvoort for the 2022 Dutch GP. And it seems like the Dutchman will enjoy another easy victory this weekend. Max has a 93-point advantage in the drivers’ championship ove"
     },
     {
       "_id": "61f9ce168f7b16aadecb1d1fc80c72f7",

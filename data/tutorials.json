@@ -10,14 +10,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
       "title": "Functions",
-      "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://kinsta.com/pt/wp-content/uploads/sites/3/2021/11/cor-da-fonte-html-1024x512.jpeg",
       "details": "unctions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output. To use a function, you must define it somewhere in the scope from which you wish to call it."
@@ -27,30 +20,14 @@
       "_id": "f69a695f037cd9484cecaea37ca71011",
       "category_id": "01",
       "title": "HTML attribute",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
       "image_url": "https://kinsta.com/wp-content/uploads/2021/11/learn-html.png",
       "details": "HTML attributes are special words used inside the opening tag to control the element's behavior. HTML attributes are a modifier of an HTML element type. An attribute either modifies the default functionality of an element type or provides functionality to certain element types unable to function correctly without them. In HTML syntax, an attribute is added to an HTML start tag. Several basic attributes types have been recognized, including: (1) required attributes, needed by a particular element type for that element type to function correctly; (2) optional attributes, used to modify the default functionality of an element type; (3) standard attributes, supported by many element types; and (4) event attributes, used to cause element types to specify scripts to be run under specific circumstances. Some attribute types function differently when used to modify different element types. For example, the attribute name is used by several element types, but has slightly different functions in each. HTML attributes generally appear as name–value pairs, separated by =, and are written within the start tag of an element, after the element's name. "
     },
     {
       "_id": "f69a695f037cd9484cecaea37ca71012",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "02",
-      "rating": { "number": 4.3, "badge": "Excellent" },
-      "total_view": 400,
       "title": "CSS(Cascading Style Sheet)",
-      "author": {
-        "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
       "image_url": "https://www.thoughtco.com/thmb/wjClbt7t8L8164Drc7_f_zeZ3TY=/1024x768/smart/filters:no_upscale()/css3-57b597e85f9b58b5c2b338de.png",
       "details": "CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language"
@@ -58,35 +35,16 @@
 
     {
       "_id": "11468ed61aee84de492a8b04158a22f9",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
       "title": "Condition",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
       "image_url": "https://assets-blog.hostgator.com.br/wp-content/uploads/2020/12/codigo-HTML-confira-o-basico-do-desenvolvimento-web.webp",
       "details": "The conditional (ternary) operator is the only JavaScript operator that takes three operands: a condition followed by a question mark ( ? ), then an expression to execute if the condition is truthy followed by a colon ( : ), and finally the expression to execute if the condition is falsy."
     },
     {
       "_id": "11468ed61aee84de492a8b04158a22f0",
-
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 980,
       "title": "HTML",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
       "image_url": "https://kinsta.com/wp-content/uploads/2022/01/xml-vs-html.jpg",
       "details": "HTML (Hypertext Markup Language) is a text-based approach to describing how content contained within an HTML file is structured. This markup tells a web browser how to display text, images and other forms of multimedia on a webpage. HTML is a formal recommendation by the World Wide Web Consortium (W3C) and is generally adhered to by all major web browsers, including both desktop and mobile web browsers. HTML5 is the latest version of the specification. HTML is a text file containing specific syntax, file and naming conventions that show the computer and the web server that it is in HTML and should be read as such. By applying these HTML conventions to a text file in virtually any text editor, a user can write and design a basic webpage, and then upload it to the internet. The most basic of HTML conventions is the inclusion of a document type declaration at the beginning of the text file. This always comes first in the document, because it is the piece that affirmatively informs a computer that this is an HTML file. The document header typically looks like this: <!DOCTYPE html>. It should always be written that way, without any content inside it or breaking it up. Any content that comes before this declaration will not be recognized as HTML by a computer."
@@ -94,19 +52,8 @@
 
     {
       "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": null,
       "title": "CSS Classes",
-      "author": {
-        "name": null,
-        "published_date": "2022-08-30 15:00:04",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
       "image_url": "https://kinsta.com/pt/wp-content/uploads/sites/3/2021/11/cor-da-fonte-html-1024x512.jpeg",
       "details": "A CSS class is an attribute used to define a group of HTML elements in order to apply unique styling and formatting to those elements with CSS. You can use CSS classes to group HTML elements and then apply custom styles to them. You can make classes and apply them to text, buttons, spans and divs, tables, images, or just about any other page element you can think of. Let’s now take a closer look at how we can use CSS classes to style page elements."
@@ -114,19 +61,8 @@
 
     {
       "_id": "a713ee936ff5574273f0f769f5c5b20e",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 111,
       "title": "Object",
-      "author": {
-        "name": "system",
-        "published_date": null,
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
       "image_url": "https://www.creative-tim.com/blog/content/images/wordpress/2020/11/19362653-1024x683.jpg",
       "details": "Nearly all objects in JavaScript are instances of Object; a typical object inherits properties (including methods) from Object.prototype, although these properties may be shadowed (a.k.a. overridden). However, an Object may be deliberately created for which this is not true (e.g. by Object.create(null)), or it may be altered so that this is no longer true (e.g. with Object.setPrototypeOf). Changes to the Object prototype object are seen by all objects through prototype chaining, unless the properties and methods subject to those changes are overridden further along the prototype chain. This provides a very powerful although potentially dangerous mechanism to override or extend object behavior."
@@ -134,38 +70,16 @@
 
     {
       "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
-      "others_info": {
-        "is_todays_pick": true,
-        "is_trending": false
-      },
       "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 733,
       "title": "React JSX",
-      "author": {
-        "name": "Theo Minh Châu",
-        "published_date": "2022-08-25 06:03:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
       "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
       "details": "1,000 pairs of autographed Size 22 Reeboks were made available thanks to a partnership between Shaquille O’Neal and Steiner Sports. Shaquille O’Neal is a larger-than-life character in every way. We’re talking about a superstar who earned as many self-styled nicknames as he did awards, a man who made his NBA debut by traveling from coast to coast"
     },
     {
       "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
       "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 733,
       "title": "React Router",
-      "author": {
-        "name": "Theo Minh Châu",
-        "published_date": "2022-08-25 06:03:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
       "image_url": "https://i.ibb.co/Z2JjRnF/unsplash-Eh-Tc-C9s-YXsw-2.png",
       "details": "Mercedes’ George Russell arrived at the Zandvoort paddock wearing a Daniel Ricciardo merchandise ahead of the Dutch GP. Ricciardo is one of the most popular and marketable drivers in F1 today. Millions of fans around the world love and idolize him, and his merchandise is one of the highest-selling among all active F1 drivers. It seems as though"
@@ -173,95 +87,42 @@
 
     {
       "_id": "f06f8cc035b04bd1158e4198281915a3",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 127,
-      "title": "php1",
-      "author": {
-        "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "PHP - Syntax Overview",
       "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
-      "image_url": "https://i.ibb.co/H4p2t3V/unsplash-Eh-Tc-C9s-YXsw-6.png",
-      "details": "COLORADO, USA — Happy Labor Day weekend! Although it may be the unofficial end to summer, there's still time to head outdoors and experience all that Colorado has to offer during the season. Taste of Colorado highlights a packed weekend of festivals "
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RkLLHotvDkY0IPxw0lMrRfojbl9pEKDEnTUeIcYU_ZkprqDJoaUT92rrm08KSQlMg1Q&usqp=CAU",
+      "details": "The PHP parsing engine needs a way to differentiate PHP code from other elements in the page. Short tags are, as one might expect, the shortest option You must do one of two things to enable PHP to recognize the tags. Choose the --enable-short-tags configuration option when you're building PHP. Set the short_open_tag setting in your php.ini file to on. This option must be disabled to parse XML with PHP because the same syntax is used for XML tags."
     },
     {
       "_id": "f06f8cc035b04bd1158e4198281915a4",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 127,
-      "title": "php2",
-      "author": {
-        "name": "Ukrainska Pravda",
-        "published_date": "2022-08-25 18:53:49",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "PHP - Predefined Variables",
       "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
-      "image_url": "https://i.ibb.co/vz5K0FB/unsplash-Eh-Tc-C9s-YXsw-10.png",
-      "details": "On Thursday night’s episode of Up Late, Ben Harvey has suggested Troy Mercanti start an OnlyFans account if he wishes to challenge anti-consorting laws. The notorious bikie will fight allegations that he broke WA’s stringent anti-consorting and insignia laws — but is also watching a High Court challenge to the regulations which the"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5zsTHjkVKe_SQsYEh10FaVWiAYjan4jZ6w4YNuYyPooa7SNez5IrLr6ONT45msem1kAU&usqp=CAU",
+      "details": "PHP provides a large number of predefined variables to any script which it runs. PHP provides an additional set of predefined arrays containing variables from the web server the environment, and user input. These new arrays are called superglobals. All the following variables are automatically available in every scope. Contains a reference to every variable which is currently available within the global scope of the script. The keys of this array are the names of the global variables. This is an array containing information such as headers, paths, and script locations. The entries in this array are created by the web server. There is no guarantee that every web server will provide any of these. See next section for a complete list of all the SERVER variables. An associative array of variables passed to the current script via the HTTP GET method. An associative array of variables passed to the current script via the HTTP POST method. An associative array of items uploaded to the current script via the HTTP POST method. An associative array consisting of the contents of $_GET, $_POST, and $_COOKIE. An associative array of variables passed to the current script via HTTP cookies"
     },
 
     {
       "_id": "cd2b53655737cc4077542baea9f8f75d",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "02",
       "title": "CSS ID Selectors",
-      "author": {
-        "name": "Daniel Deangelo",
-        "published_date": "2022-08-30 20:02:52",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://kinsta.com/wp-content/uploads/2021/01/php-editor-1-1024x512.jpg",
       "details": "You can assign a unique identifier to an HTML element, then style that element by referencing its unique identifier. This allows you to define a style that can only be used by the element you assign the ID to. Any HTML element can have the id attribute applied to it. The value of this attribute is the element's unique identifier. The syntax for declaring a CSS ID is the same as for classes, except that instead of using a dot, you use a hash (#). Again, similar to classes, if you want to use the same id name for multiple elements, but each with a different style, you can prefix the hash with the HTML element name."
     },
     {
       "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
       "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 300,
-      "title": "php4",
-      "author": {
-        "name": "",
-        "published_date": "2022-08-24 22:30:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "PHP - Constants Types",
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Washington, Aug 24 (Prensa Latina) President Joe Biden has announced he will allot nearly billion in military aid to Kyiv – the biggest US package so far since the beginning of the Russian military…"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwz6PN3jB_cC3A6tRkF7_mIHUHpROQSfWwxvREDo6nvwNKuqYP8XknltNd112VtyfAD1E&usqp=CAU",
+      "details": "A constant is a name or an identifier for a simple value. A constant value cannot change during the execution of the script. By default, a constant is case-sensitive. By convention, constant identifiers are always uppercase. A constant name starts with a letter or underscore, followed by any number of letters, numbers, or underscores. If you have defined a constant, it can never be changed or undefined. To define a constant you have to use define() function and to retrieve the value of a constant, you have to simply specifying its name. Unlike with variables, you do not need to have a constant with a $. You can also use the function constant() to read a constant's value if you wish to obtain the constant's name dynamically. As indicated by the name, this function will return the value of the constant. This is useful when you want to retrieve value of a constant, but you do not know its name, i.e. It is stored in a variable or returned by a function."
     },
     
     {
       "_id": "df11ff9feefc37613cc3a4486ce02151",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
       "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 552,
       "title": "Pseudo-classes",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-27 05:38:02",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
       "image_url": "https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2018/11/Como-linkar-css-no-html.png",
       "details": "A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s). For example, the pseudo-class :hover can be used to select a button when a user's pointer hovers over the button and this selected button can then be styled. A pseudo-class consists of a colon (:) followed by the pseudo-class name (e.g., :hover). A functional pseudo-class also contains a pair of parenthesis to define the arguments (e.g., :dir()). The element that a pseudo-class is attached to is defined as an anchor element (e.g., button in case button:hover). Pseudo-classes let you apply a style to an element not only in relation to the content of the document tree, but also in relation to external factors like the history of the navigator (:visited, for example), the status of its content (like :checked on certain form elements), or the position of the mouse (like :hover, which lets you know if the mouse is over an element or not)."
@@ -270,19 +131,8 @@
     
     {
       "_id": "acb9b6785b62698fc6130db7615965e1",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 879,
       "title": "Loops",
-      "author": {
-        "name": "RTTNews",
-        "published_date": "2022-08-25 11:53:13",
-        "img": "https://assets-api.kathmandupost.com/thumb.php?src=https://assets-cdn.kathmandupost.com/uploads/source/news/2022/opinion/shutterstock1914164533-1652959735.jpg&w=900&height=601"
-      },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
       "image_url": "https://i.ibb.co/PxC67LV/unsplash-Eh-Tc-C9s-YXsw-1.png",
       "details": "Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript. There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times. (Note that it's possible that number could be zero!). The various loop mechanisms offer different ways to determine the start and end points of the loop. There are various situations that are more easily served by one type of loop over the others."
@@ -290,38 +140,16 @@
     
     {
       "_id": "1b03149c50f1bec662062d930bf46489",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 546,
       "title": "CSS animations",
-      "author": {
-        "name": "The Philadelphia Inquirer",
-        "published_date": "2022-08-30 22:00:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
       "image_url": "https://kinsta.com/wp-content/uploads/2019/12/free-html-editor.jpg",
       "details": "CSS animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints. There are three key advantages to CSS animations over traditional script-driven animation techniques: They're easy to use for simple animations; you can create them without even having to know JavaScript. The animations run well, even under moderate system load. Simple animations can often perform poorly in JavaScript. The rendering engine can use frame-skipping and other techniques to keep the performance as smooth as possible. Letting the browser control the animation sequence lets the browser optimize performance and efficiency by, for example, reducing the update frequency of animations running in tabs that aren't currently visible."
     },
     {
       "_id": "7f5b80c1cdd4df0111918883eae07349",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 1870,
       "title": "Array",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
       "image_url": "https://programiz.pro/resources/content/images/2022/06/how-to-learn-programming-for-beginners-1.png",
       "published_date": "2022-08-24 18:00:00",
@@ -329,136 +157,56 @@
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "06",
-      "rating": { "number": 4.2, "badge": "Excellent" },
-      "total_view": 354,
-      "title": "python1",
-      "author": {
-        "name": "Presstv",
-        "published_date": "2022-08-30 17:44:16",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "Python - Loops",
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
-      "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits"
+      "image_url": "https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2020/08/05113859/UpdateBoss-1024x512.png",
+      "details": "In general, statements are executed sequentially: The first statement in a function is executed first, followed by the second, and so on. There may be a situation when you need to execute a block of code several number of times. Programming languages provide various control structures that allow for more complicated execution paths. Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed. Python supports the following control statements. Click the following links to check their detail."
     },
     {
       "_id": "17d266b79d2fcd850cd4d983c3aeb85f",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "06",
-      "rating": { "number": 4.2, "badge": "Excellent" },
-      "total_view": 354,
-      "title": "python2",
-      "author": {
-        "name": "Presstv",
-        "published_date": "2022-08-30 17:44:16",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "Python - Numbers",
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
-      "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZ51JQ4U3LAplZcSXaSOFeUzeoaXeLCNXSSQgtYavSo4OCgke0dYbYKWKLpgsCHAMNiM&usqp=CAU",
+      "details": "Number data types store numeric values. They are immutable data types, means that changing the value of a number data type results in a newly allocated object.Number objects are created when you assign a value to them. You can also delete the reference to a number object by using the del statement. You can delete a single object or multiple objects by using the del statement."
     },
     {
       "_id": "17d266b79d2fcd850cd2d983c3aeb85f",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "06",
-      "rating": { "number": 4.2, "badge": "Excellent" },
-      "total_view": 354,
-      "title": "python3",
-      "author": {
-        "name": "Presstv",
-        "published_date": "2022-08-30 17:44:16",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "Python - Strings",
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
-      "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits"
+      "image_url": "https://blog.bonus.ly/hubfs/work-from-home.png",
+      "details": "Strings are amongst the most popular types in Python. We can create them simply by enclosing characters in quotes. Python treats single quotes the same as double quotes. Creating strings is as simple as assigning a value to a variable. Python does not support a character type; these are treated as strings of length one, thus also considered a substring. To access substrings, use the square brackets for slicing along with the index or indices to obtain your substring. You can update an existing string by (re)assigning a variable to another string. The new value can be related to its previous value or to a completely different string altogether."
     },
     {
       "_id": "17d266b79d2fcd850cd2d982c3aeb85f",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "06",
-      "rating": { "number": 4.2, "badge": "Excellent" },
-      "total_view": 354,
-      "title": "python4",
-      "author": {
-        "name": "Presstv",
-        "published_date": "2022-08-30 17:44:16",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "Python - Lists",
       "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://i.ibb.co/hxG29nr/unsplash-Eh-Tc-C9s-YXsw-9.png",
-      "details": "Meghan Markle's Nelson Mandela story continues to unravel after the only South African cast member of 'The Lion King' said he was \"baffled\" by her suggestion that he told her his country had \"rejoiced\" when she married Prince Harry. The former Suits"
+      "image_url": "https://insights.dice.com/wp-content/uploads/2019/07/Working-from-Home-Remote-Work-Burnout-Dice.png",
+      "details": "The most basic data structure in Python is the sequence. Each element of a sequence is assigned a number - its position or index. The first index is zero, the second index is one, and so forth. Python has six built-in types of sequences, but the most common ones are lists and tuples, which we would see in this tutorial. There are certain things you can do with all sequence types. These operations include indexing, slicing, adding, multiplying, and checking for membership. In addition, Python has built-in functions for finding the length of a sequence and for finding its largest and smallest elements. The list is a most versatile datatype available in Python which can be written as a list of comma-separated values (items) between square brackets. Important thing about a list is that items in a list need not be of the same type. Creating a list is as simple as putting different comma-separated values between square brackets"
     },
     {
       "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
       "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-
-      "total_view": 100,
-      "title": "php3",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-26 00:37:24",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
+      "title": "PHP - Operator Types",
       "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
-      "image_url": "https://i.ibb.co/tKsvCyR/unsplash-Eh-Tc-C9s-YXsw-3.png",
-      "details": "Associated Press  Six months after Russia's invasion of Ukraine, President Joe Biden announced Wednesday that he is sending $2.98 billion in new military aid to Ukraine that will provide longer-term weapons and training to enable forces there to fight for years to come. In a statement, Biden said the aid will allow Ukraine to acquire air defense systems, artillery systems and munitions, drones and other equipment 'to ensure it can continue to defend itself over the long term.' The announcement comes as Ukraine is celebrating its 1991 declaration of independence from the Soviet Union."
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh5jRMMNtDQWSNW3VBr_38Iq03c24NnKQONQbKOmyR-xlgivinLIWbTsDoC3DzSFJpuA&usqp=CAU",
+      "details": "Simple answer can be given using expression 4 + 5 is equal to 9. Here 4 and 5 are called operands and + is called operator. PHP language supports following type of operators. Arithmetic Operators, Comparison Operators, Logical (or Relational) Operators, Assignment Operators, Conditional (or ternary) Operators"
     },
     {
       "_id": "61f9ce168f7b16aadecb1d1fc80c72f7",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
       "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-
-      "total_view": 100,
       "title": "ReactJS - JSX",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-26 00:37:24",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
       "image_url": "https://opensource.com/sites/default/files/lead-images/wfh_work_home_laptop_work.png",
       "details": "As we learned earlier, React JSX is an extension to JavaScript. It enables developer to create virtual DOM using XML syntax. It compiles down to pure JavaScript (React.createElement function calls). Since it compiles to JavaScript, it can be used inside any valid JavaScript code. For example, below codes are perfectly valid. JSX supports expression in pure JavaScript syntax. Expression has to be enclosed inside the curly braces, { }. Expression can contain all variables available in the context, where the JSX is defined. Let us create simple JSX with expression. SX supports HTML like attributes. All HTML tags and its attributes are supported. Attributes has to be specified using camelCase convention (and it follows JavaScript DOM API) instead of normal HTML attribute name."
     },
     {
       "_id": "61f9ce168f7b16aadecb1d1fc81c72f7",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": false
-      },
       "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-
-      "total_view": 100,
       "title": "ReactJS - Component",
-      "author": {
-        "name": "system",
-        "published_date": "2022-08-26 00:37:24",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-      },
       "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7ftvUJYM_rd682jLVq28zHt44ac_0CXqHdoAsS0gv4xDN8f-Jnko4N60TcwNujqe-zk&usqp=CAU",
       "details": "React component is the building block of a React application. Let us learn how to create a new React component and the features of React components in this chapter. A React component represents a small chunk of user interface in a webpage. The primary job of a React component is to render its user interface and update it whenever its internal state is changed. In addition to rendering the UI, it manages the events belongs to its user interface. React component provides : Initial rendering of the user interface. Management and handling of events. Updating the user interface whenever the internal state is changed."

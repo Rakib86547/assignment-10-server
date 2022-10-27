@@ -20,10 +20,22 @@ app.get('/category/:id', (req, res) => {
     res.send(select_category);
 })
 
+
 app.get('/tutorials/:id', (req, res) => {
     const id = req.params.id;
     const program_tutorial = tutorials.find(tuto => tuto._id === id);
     res.send(program_tutorial)
+})
+
+app.get('/checkpagess/:id', (req, res) => {
+    const id = req.params.id;
+    const program_checks = tutorials.find(tuto => tuto._id === id);
+    res.send(program_checks)
+})
+
+
+app.get('/all-tutorials', (req, res) => {
+    res.send(tutorials)
 })
 
 app.listen(port, () => {

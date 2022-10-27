@@ -1,26 +1,32 @@
 [
     {
       "id": "01",
-      "name": "html"
+      "name": "html5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk64SzG5I7cECxQMHomU2zPMd-6oqSrHNKlNDNBAtiS4f5bpmnsFXxdmRX8LWTyN4Yt8g&usqp=CAU"
     },
     {
       "id": "02",
-      "name": "css"
+      "name": "CSS3",
+      "img": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
     },
     {
       "id": "03",
-      "name": "javascript"
+      "name": "Javascript",
+      "img": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png"
     },
     {
       "id": "04",
-      "name": "React js"
+      "name": "React js",
+      "img": "https://reactjs.org/logo-og.png"
     },
     {
       "id": "05",
-      "name": "Php"
+      "name": "Php",
+      "img": "http://dotnetguru.org/wp-content/uploads/2019/08/php.jpg"
     },
     {
       "id": "06",
-      "name": "Python"
+      "name": "Python",
+      "img": "https://5.imimg.com/data5/SG/BF/PV/SELLER-55284628/python-programming-500x500.jpg"
     }
   ]
